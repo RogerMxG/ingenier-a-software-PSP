@@ -6,4 +6,4 @@ Se irá actualizando el repositorio dependiendo las actividades asignadas.
 
 
 
-# RogerMxG - Ingeniería de Software - Universidad de Guanjuato DICIS
+*RogerMxG - Ingeniería de Software - Universidad de Guanjuato DICIS*
